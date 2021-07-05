@@ -1,5 +1,5 @@
 {
-    "name": "bshaffer/oauth2-server-httpfoundation-bridge",
+    "name": "madv/oauth2-server-httpfoundation-bridge",
     "description":"A bridge to HttpFoundation for oauth2-server-php",
     "keywords":["oauth","oauth2","auth","httpfoundation"],
     "type":"library",
@@ -14,7 +14,7 @@
     "homepage": "http://github.com/bshaffer/oauth2-server-httpfoundation-bridge",
     "require":{
         "php":">=7.2.0",
-        "bshaffer/oauth2-server-php": ">=0.9",
+        "madv/oauth2-server-php": ">=0.9",
         "symfony/http-foundation": ">=5.0"
     },
     "autoload": {
